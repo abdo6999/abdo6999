@@ -3,7 +3,8 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/abdelrahman-mahmoud-akl/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-        <a href="[[Your Website URL]](https://abdelrahman-mahmoud.tech/)" target="_blank"><img src="https://img.shields.io/badge/website-%230177B5?style=flat&logo=web&logoColor=white"/></a>
+            <a href="https://abdelrahman-mahmoud.tech" target="_blank"><img src="https://img.shields.io/badge/website-%230177B5?style=flat&logo=web&logoColor=white" alt="Website"></a>
+
 </p>
 
 
