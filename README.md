@@ -11,7 +11,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/abdo6999/portfolio/main/src/assets/projectsphoto/me/me.jpg" align="right" width="25%"/>
+<img src="https://avatars.githubusercontent.com/u/104309289?v=4" align="right" width="25%"/>
 
 I'm a Full Stack Web Developer with expertise in frontend and backend development. I have a solid understanding of HTML, CSS, and JavaScript for building interactive user interfaces. On the backend, I'm proficient in Node.js, Express.js, and PostgreSQL for server-side development and database management.
 
