@@ -71,23 +71,6 @@ I’m passionate about writing maintainable code, clean architecture, and delive
 
 ---
 
-### 🚀 Featured Projects  
-
-- **Doctor Appointment System** – Full-stack web app with role-based authentication and scheduling  
-- **E-Commerce Store** – Angular-based UI with responsive design and dynamic filtering  
-- **Personal Dashboard** – A productivity tool built with TypeScript and modular components  
-
-Explore all my projects on my [Portfolio](https://abdelrahman-mahmoud.netlify.app/).  
-
----
-
-### 📈 Currently Learning  
-- Clean Architecture & CQRS with ASP.NET Core  
-- Unit Testing & Integration Testing with xUnit and Moq  
-- Angular Standalone Components & SignalR Integration  
-
----
-
 ### 📫 Contact  
 📧 **Email:** abdelrahmanmahmoudakl@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-mahmoud-akl](https://www.linkedin.com/in/abdelrahman-mahmoud-akl/)  
