@@ -72,6 +72,6 @@ I’m passionate about writing maintainable code, clean architecture, and delive
 ---
 
 ### 📫 Contact  
-📧 **Email:** abdelrahmanmahmoudakl@gmail.com  
+📧 **Email:** abdelrahman.mahmoud.elsaeed@gmail.com 
 🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-mahmoud-akl](https://www.linkedin.com/in/abdelrahman-mahmoud-akl/)  
 🌍 **Portfolio:** [abdelrahman-mahmoud.netlify.app](https://abdelrahman-mahmoud.netlify.app/)
