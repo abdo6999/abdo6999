@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://abdelrahman-mahmoud.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=vercel&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=netlify&logoColor=white" alt="Website">
   </a>
 </p>
 
